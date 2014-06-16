@@ -1,0 +1,21 @@
+{
+  "name": "scrapeproviderlinks",
+  "version": "0.1.0",
+  "description": "Follows a list of provider links and returns the data from them.",
+  "main": "scrapelinks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape",
+    "eec",
+    "education",
+    "massachusetts"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.36.0",
+    "queue-async": "~1.0.7"
+  }
+}
