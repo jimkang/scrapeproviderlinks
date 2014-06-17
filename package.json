@@ -17,6 +17,7 @@
   "dependencies": {
     "request": "~2.36.0",
     "queue-async": "~1.0.7",
-    "cheerio": "~0.17.0"
+    "cheerio": "~0.17.0",
+    "lodash": "~2.4.1"
   }
 }

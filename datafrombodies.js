@@ -1,6 +1,5 @@
 var queue = require('queue-async');
 var fs = require('fs');
-// var jsdom = require('jsdom').jsdom;
 var cheerio = require('cheerio');
 
 var q = queue();
